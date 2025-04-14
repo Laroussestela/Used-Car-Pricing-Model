@@ -2,7 +2,7 @@ from lightgbm import LGBMRegressor
 from sklearn.model_selection import GridSearchCV, KFold
 import matplotlib.pyplot as plt
 import visualization
-from preparation import data_cleaning
+from preparation import data_cleaning, remove_outliers
 
 lgb_params={
             'num_leaves': Integer(100, 1000),
