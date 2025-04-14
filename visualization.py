@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-from preparation import data_cleaning
+from preparation import data_cleaning, remove_outliers
 
 data_cleaning()
 
