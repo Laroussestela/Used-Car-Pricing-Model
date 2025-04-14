@@ -48,7 +48,7 @@ A continuación se presentan algunos ejemplos de las predicciones realizadas por
 | 17500       | 17509.447614    | 9.447614  |
 | 48000       | 47990.060157    | 9.939843  |
 
-Como se puede observar, las predicciones están bastante cerca de los valores reales, con una diferencia mínima en todos los casos.
+Como se puede observar, las predicciones están bastante cerca de los valores reales, con una diferencia mínima en todos los casos. Mejor RSME: Mejor RMSE: 10108.57
 
 ## 📊 Gráfica
 
