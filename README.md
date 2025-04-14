@@ -54,7 +54,7 @@ Como se puede observar, las predicciones están bastante cerca de los valores re
 
 La siguiente gráfica muestra la comparación entre el **precio real** y el **precio predicho**:
 
-![image](https://github.com/user-attachments/assets/59a6436e-6e80-4299-8422-a3e43a66c656)
+![image](https://github.com/user-attachments/assets/51da8bed-bae6-4955-bba2-3dd3b50c4a9b)
 
 En la gráfica se puede observar la relación entre las predicciones de ambos modelos y los valores reales, destacando la precisión en las predicciones de precios de vehículos.
 
