@@ -4,7 +4,7 @@ from sklearn.model_selection import GridSearchCV, KFold
 from skopt import BayesSearchCV
 import matplotlib.pyplot as plt
 import visualization
-from preparation import data_cleaning
+from preparation import data_cleaning, remove_outliers
 
 
 xgb_model = XGBRegressor(tree_method='gpu_hist',
